@@ -1,4 +1,4 @@
-# A fast computational software for nonlinnear dynamics of magnetoelastic flexible structures
+# A computational software for the nonlinear dynamics of magnetoelastic beams
 
 To run this code, you should have a Linux Ubuntu system
 
