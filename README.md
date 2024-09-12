@@ -1,5 +1,10 @@
 # A computational software for the nonlinear dynamics of magnetoelastic beams
 
+# Overview
+This project focused on the nonlinear dynamics of magnetically-actuated elastic beam systems.
+
+<br/><img src='output.gif' width="600">
+
 To run this code, you should have a Linux Ubuntu system
 
 0. Update
