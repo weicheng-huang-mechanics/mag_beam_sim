@@ -1,0 +1,14 @@
+render 1
+saveData 1
+YoungM 5e5
+totalTime 11.0
+deltaTime 2e-3
+rodRadius 1e-2
+density 100.0
+stol 1e-3
+forceTol 1e-3
+maxIter 10
+viscosity 10.0
+scaleRendering 0.5
+gVector 0.0 0.0 0.0
+Possion 0.0
